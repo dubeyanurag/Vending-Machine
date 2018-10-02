@@ -1,4 +1,4 @@
-# Vending-Machine
+# Vending-Machine Design
 We have a vending machine, that serves drinks using some ingredients. When any/all of the ingredients run low in the vending machine, we need to show an alert on the machine.  
 We also require the facilty to re-fill the ingredients in the machine. 
 If suficient ingredients are not avalable, then the drink should not be served.  
