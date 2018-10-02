@@ -21,3 +21,4 @@ To make Soup, i use - Soup mix, water
 I need to be able to run the vending machine to serve all these drinks, sustainably for a long time.  
 I also might want to add/remove a type of drink the machine serves, (Eg- Black coffee
 Cold Drink etc..)  
+![alt text](https://raw.githubusercontent.com/dubeyanurag/Vending-Machine/master/Vending%20Machine.jpg)
