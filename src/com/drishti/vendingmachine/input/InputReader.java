@@ -5,8 +5,8 @@ import java.util.Scanner;
 import com.drishti.vendingmachine.IVendingMachine;
 
 public class InputReader {
-	IVendingMachine vendingMachine;
-	Scanner scanner;
+	private IVendingMachine vendingMachine;
+	private Scanner scanner;
 	public InputReader(IVendingMachine vendingMachine){
 		this.vendingMachine = vendingMachine;
 		scanner = new Scanner(System.in);

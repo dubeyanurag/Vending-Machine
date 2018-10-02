@@ -7,7 +7,7 @@ import com.drishti.vendingmachine.IVendingMachine;
 import com.drishti.vendingmachine.display.Display;
 
 public class NotificationManager {
-	List<INotificationCarrier> carriers;
+	private List<INotificationCarrier> carriers;
 	public NotificationManager(IVendingMachine vendingMachine){
 		carriers = new ArrayList<>();
 		carriers.add(vendingMachine.getComponent(Display.class));

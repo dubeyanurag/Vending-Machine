@@ -4,8 +4,8 @@ import com.drishti.vendingmachine.IVendingMachine;
 import com.drishti.vendingmachine.notification.NotificationManager;
 
 public class InputHandler extends Thread{
-	IVendingMachine vendingMachine;
-	String input;
+	private IVendingMachine vendingMachine;
+	private String input;
 	public InputHandler(IVendingMachine vendingMachine){
 		this.vendingMachine = vendingMachine;
 	}

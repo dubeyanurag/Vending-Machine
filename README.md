@@ -22,5 +22,5 @@ I need to be able to run the vending machine to serve all these drinks, sustaina
 I also might want to add/remove a type of drink the machine serves, (Eg- Black coffee
 Cold Drink etc..)  
 
-# Worked out Design
+## Worked out Design
 ![alt text](https://raw.githubusercontent.com/dubeyanurag/Vending-Machine/master/Vending%20Machine.jpg)

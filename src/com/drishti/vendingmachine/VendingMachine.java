@@ -8,7 +8,7 @@ import com.drishti.vendingmachine.input.InputReader;
 import com.drishti.vendingmachine.notification.NotificationManager;
 
 public class VendingMachine implements IVendingMachine{
-	Map<Class,Object> typeVsComponent;
+	private Map<Class,Object> typeVsComponent;
 	public VendingMachine() {
 		typeVsComponent = new HashMap<>();
 		typeVsComponent.put(Display.class, new Display());
