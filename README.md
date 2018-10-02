@@ -1,4 +1,4 @@
-# Vending-Machine Design
+# Vending-Machine
 We have a vending machine, that serves drinks using some ingredients. When any/all of the ingredients run low in the vending machine, we need to show an alert on the machine.  
 We also require the facilty to re-fill the ingredients in the machine. 
 If suficient ingredients are not avalable, then the drink should not be served.  
@@ -21,4 +21,6 @@ To make Soup, i use - Soup mix, water
 I need to be able to run the vending machine to serve all these drinks, sustainably for a long time.  
 I also might want to add/remove a type of drink the machine serves, (Eg- Black coffee
 Cold Drink etc..)  
+
+# Worked out Design
 ![alt text](https://raw.githubusercontent.com/dubeyanurag/Vending-Machine/master/Vending%20Machine.jpg)
