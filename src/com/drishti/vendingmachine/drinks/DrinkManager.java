@@ -31,6 +31,8 @@ public class DrinkManager {
             case COFFEE:
                 drinkRecipe = new DrinkRecipe(Drink.COFFEE, addIngredients(Drink.COFFEE));
                 break;
+            default:
+                break;
         }
         return drinkRecipe;
     }
@@ -54,6 +56,8 @@ public class DrinkManager {
             case TOMATO_SOUP:
                 ingredients.add(Container.addSoupMix());
                 ingredients.add(Container.addWater());
+                break;
+            default:
                 break;
         }
         return ingredients;
