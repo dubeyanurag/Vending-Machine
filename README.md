@@ -23,4 +23,4 @@ I also might want to add/remove a type of drink the machine serves, (Eg- Black c
 Cold Drink etc..)  
 
 ## Worked out Design
-![alt text](https://raw.githubusercontent.com/dubeyanurag/Vending-Machine/master/Vending%20Machine.jpg)
+![alt text](Vending%20Machine.jpg)
