@@ -1,5 +1,5 @@
 # Vending-Machine OOD Problem
-We have a vending machine, that serves drinks using some ingredients. When any/all of the ingredients run low in the vending machine, we need to show an alert on the machine.  
+Consider, We have a vending machine, that serves drinks using some ingredients. When any/all of the ingredients run low in the vending machine, we need to show an alert on the machine.  
 We also require the facility to re-fill the ingredients in the machine. 
 If sufficient ingredients are not available, then the drink should not be served.  
 The vending machine is used by 2 types of users  
